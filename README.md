@@ -1,4 +1,4 @@
-# portfolio-project
+#responsive-challenge
 
 This is a multiple page project that is mobile- and SEO-friendly.
 Hosted on Netlify, deploys from GitHub.
